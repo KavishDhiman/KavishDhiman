@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm KavishDiman</h1>
+<h1 align="center">Hi 👋, I'm KavishDhiman</h1>
 <h3 align="center">A passionate Cyber Security enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishdhiman" alt="kavishdhiman" /></a> </p>
 
 - 👯 I’m looking to collaborate on **cybersecurity projects**
 
-- 📫 How to reach me **kavishdiman2003@gmail.com**
+- 📫 How to reach me **kavishdhiman2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
