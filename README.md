@@ -86,7 +86,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Elite Feature)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kavishdhiman/kavishdhiman/output/github-contribution-grid-snake.svg" />
@@ -101,15 +101,7 @@
 - ☁️ Cloud Security Fundamentals
 - 🧬 Advanced Malware Analysis  
 
----
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavishdhiman&theme=onedark&margin-w=12&margin-h=12" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
